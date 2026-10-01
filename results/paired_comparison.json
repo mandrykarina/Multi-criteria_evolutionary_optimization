@@ -1,0 +1,13 @@
+{
+  "mean_difference": 0.0010476190476182978,
+  "median_difference": 0.0,
+  "bootstrap_ci95": [
+    -9.523809524030943e-05,
+    0.0021904761904778763
+  ],
+  "wins": 14,
+  "ties": 8,
+  "losses": 8,
+  "bootstrap_seed": 50717,
+  "bootstrap_samples": 10000
+}

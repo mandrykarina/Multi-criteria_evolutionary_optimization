@@ -1,0 +1,13 @@
+{
+  "population": 64,
+  "budget": 5184,
+  "runs": 30,
+  "first_seed": 47000,
+  "mutation_probability": 0.02,
+  "crossover_probability": 0.9,
+  "local_probability": 0.35,
+  "group": 507,
+  "student_number": 17,
+  "year": 2026,
+  "variant": 16
+}

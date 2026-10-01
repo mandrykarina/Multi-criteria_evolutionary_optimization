@@ -1,0 +1,12 @@
+test_budget_local_search_determinism (test_model.Tests.test_budget_local_search_determinism) ... ok
+test_empty (test_model.Tests.test_empty) ... ok
+test_generator_covers_all_requirements (test_model.Tests.test_generator_covers_all_requirements) ... ok
+test_greedy_feasible (test_model.Tests.test_greedy_feasible) ... ok
+test_manual_coverage (test_model.Tests.test_manual_coverage) ... ok
+test_over_budget_rejected (test_model.Tests.test_over_budget_rejected) ... ok
+test_repair (test_model.Tests.test_repair) ... ok
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.040s
+
+OK
